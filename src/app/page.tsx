@@ -22,7 +22,7 @@ export default async function Home() {
 
         <Link
           className={`${buttonVariants()}`}
-          href="https://dcampuzano-mulesoft.s3.amazonaws.com/sample-invoice.zip"
+          href="https://dcampuzano-mulesoft.s3.amazonaws.com/USC+EMHA+GERO+GIST+MCM+MMLIS+MPA+FA1+20+9-25-20.csv"
         >
           Download
         </Link>
